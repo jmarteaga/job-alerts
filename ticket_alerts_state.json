@@ -1,0 +1,12 @@
+{
+  "monitor": "la28-hospitality-lowest-price",
+  "url": "https://hospitality.la28.org/en/products?events=GAR%2CATH%2CSWM&dates=&groupSize=4",
+  "selections": {
+    "events": ["GAR", "ATH", "SWM"],
+    "dates": "",
+    "groupSize": 4
+  },
+  "lowest_seen": null,
+  "listings": {},
+  "history": []
+}
